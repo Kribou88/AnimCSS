@@ -1,2 +1,0 @@
-# AnimCSS
-Created with CodeSandbox
